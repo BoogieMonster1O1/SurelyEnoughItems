@@ -16,7 +16,7 @@
   "icon": "assets/sei/icon.png",
   "environment": "*",
   "entrypoints": {
-    "main": [
+    "client": [
       "io.github.boogiemonster1o1.sei.SurelyEnoughItems"
     ]
   },
