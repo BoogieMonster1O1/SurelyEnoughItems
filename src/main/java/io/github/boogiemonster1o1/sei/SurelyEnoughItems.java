@@ -1,7 +1,6 @@
 package io.github.boogiemonster1o1.sei;
 
 import net.fabricmc.api.ClientModInitializer;
-import net.fabricmc.api.ModInitializer;
 
 public class SurelyEnoughItems implements ClientModInitializer {
 
